@@ -1,5 +1,10 @@
-.gp-jumbo{
-    line-height: 100px;
+.gp-container{
+    max-width: 30%;
+    margin: 0 auto;
+}
+
+.gp-img{
+    width: 100%;
 }
 
 .gp-example{
@@ -24,3 +29,21 @@
     background-color: #2c3e50;
     color: white;
 }
+
+.gp-hamburger{
+    margin-top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.gp-link{
+    color: white;
+    text-decoration: none;
+}
+
+.gp-link:hover{
+    color: white;
+}er">
+<
+
+
